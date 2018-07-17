@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: >-
+  Welcome to the Green Book, a comprehensive guide to key processes and
+  principles for our Operating Companies.
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![](/img/chairman-and-ceo.jpg)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### This document is designed to empower you by clearly laying out the principles, practices and expectations that underpin our ways of working. You, our Operating Company leaders, need clarity, so you can go faster and make big decisions with absolute certainty about when DMGT’s involvement is needed, and when it is not. The working relationship between DMGT and its Operating Companies is, more than ever, critical to our success.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### That relationship has evolved to meet the growing demands of the markets we operate in, and now is the right time to strengthen that relationship by setting out clear, mutual expectations of how we will work together.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+### By developing this understanding, we can progress more quickly, confidently and effectively towards our shared goals, deliver our Group-wide Performance Improvement Programme and position our businesses for sustainable, profitable growth.
+
+### 
+
+### Each business within our portfolio of number one brands has tremendous potential and opportunity ahead. DMGT is here to empower you, to support and encourage our shared values of entrepreneurialism, purpose and excellence, and to enable your success.
+
+### 
+
+### The Viscount Rothermere Chairman,
+
+### 
+
+### DMGT Paul Zwillenberg CEO, DMGT
